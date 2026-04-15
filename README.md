@@ -94,7 +94,7 @@ onchainos portfolio total-value --address <xlayer-address> --chains xlayer
 
 **Deployment Address (X Layer, chain ID 196):**
 ```
-0x_YOUR_XLAYER_WALLET_ADDRESS_HERE
+0x88500a38c9b4c74222022ed7cc9917e0d1a10eea
 ```
 > Replace this with the address returned by `onchainos wallet addresses --chain 196` after running setup.
 
