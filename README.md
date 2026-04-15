@@ -250,19 +250,17 @@ onchainos liquidity recommend --token OKB --amount 5000 --chain xlayer --risk mo
 
 | Name | Role |
 |---|---|
-| [Your Name] | Lead developer — skill architecture, scoring algorithm, Rust implementation |
+| Harrie | Lead developer — skill architecture, scoring algorithm, Rust implementation |
 
 ---
 
 ## Bonus
 
 ### Demo Video
-> Record a 1–3 minute demo showing:
-> 1. `onchainos liquidity scan --chain xlayer --platform uniswap-v3 --top 5`
-> 2. `onchainos liquidity recommend --token OKB --amount 5000 --chain xlayer`
-> 3. `onchainos liquidity watch --chain xlayer` (live alerts)
->
-> Upload to YouTube and paste the link here: **[VIDEO LINK]**
+
+[Watch the demo](https://drive.google.com/file/d/1C3gSFovq061Y-47Pdcu4C5VhMfGHeLjF/view?usp=drivesdk)
+
+> Covers: `liquidity scan`, `liquidity recommend`, and `liquidity watch` on X Layer with Uniswap V3 mode.
 
 ### X Post
 > Post a project intro with #onchainos @XLayerOfficial and paste the link here: **[POST LINK]**
