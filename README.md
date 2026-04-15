@@ -263,7 +263,7 @@ onchainos liquidity recommend --token OKB --amount 5000 --chain xlayer --risk mo
 > Covers: `liquidity scan`, `liquidity recommend`, and `liquidity watch` on X Layer with Uniswap V3 mode.
 
 ### X Post
-> Post a project intro with #onchainos @XLayerOfficial and paste the link here: **[POST LINK]**
+[View X post](https://x.com/IamHarrie/status/2044293605355827429?s=20)
 
 ---
 
